@@ -23,7 +23,7 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:get/route_manager.dart';
 
 class WelComeScreen extends StatefulWidget {
-  const WelComeScreen({Key? key}) : super(key: key);
+  const WelComeScreen({super.key});
 
   @override
   State<WelComeScreen> createState() => _WelComeScreenState();
