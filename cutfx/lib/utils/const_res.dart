@@ -4,8 +4,9 @@ class ConstRes {
   // static const String itemBaseUrl =
   //     'http://192.168.0.116/cutfx_backend/public/storage/';
 
-  static const String baseUrl = '-----------------';
-  static const String itemBaseUrl = '--------------------';
+  static const String baseUrl = 'https://cutfx.invatomarket.com/api/';
+  static const String itemBaseUrl =
+      'https://cutfx.invatomarket.com/public/storage/';
   static String termsOfUseUrl = baseUrl.replaceAll('api/', 'termsOfUse');
   static String privacyPolicyUrl = baseUrl.replaceAll('api/', 'privacypolicy');
   static const String registerUser = '${baseUrl}user/registerUser';

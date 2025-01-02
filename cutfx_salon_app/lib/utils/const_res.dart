@@ -4,9 +4,9 @@ class ConstRes {
   // static const String itemBaseUrl =
   //     'http://192.168.0.116/cutfx_backend/public/storage/';
 
-  static const String baseUrl = '-------------------';
+  static const String baseUrl = 'https://cutfx.invatomarket.com/api/';
   static const String itemBaseUrl =
-      '--------------------';
+      'https://cutfx.invatomarket.com/public/storage/';
   static const String password = 'password';
   static const String salonRegistration = '${baseUrl}salonRegistration';
   static const String updateSalonDetails = '${baseUrl}updateSalonDetails';
@@ -142,6 +142,5 @@ class ConstRes {
 
   static int salonId = -1;
 
-  static var authorisationKey =
-      '--------------------------------';
+  static var authorisationKey = '--------------------------------';
 }

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b01ffec5-dbd9-4416-8fa6-f84c8e215d86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/booking/history_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/booking/history_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/booking/profile_booking_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/booking/profile_booking_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/booking/upcoming_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/booking/upcoming_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/add_rating_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/add_rating_bottom_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/booking_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/booking_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/my_qr_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/bookingdetail/my_qr_bottom_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/categories/categories_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/categories/categories_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/categories/salon_by_cat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/categories/salon_by_cat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/changelanguage/change_language.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/changelanguage/change_language.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/chat/bottom_selected_item_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/chat/bottom_selected_item_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/chat/chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/chat/chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/chat/video_upload_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/chat/video_upload_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/drawer/drawer_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/drawer/drawer_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/edit_profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/edit_profile_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/fav/favourite_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/fav/favourite_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/fav/salon_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/fav/salon_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/fav/service_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/fav/service_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/gallery/gallery_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/gallery/gallery_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/help&amp;faq/help_and_faq_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/help&amp;faq/help_and_faq_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/home/categories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/home/categories.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/home/categories_with_salons.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/home/categories_with_salons.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/home/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/home/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/home/near_by_salon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/home/near_by_salon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/home/top_rated_salon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/home/top_rated_salon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/login/email_login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/login/email_login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/login/email_registration_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/login/email_registration_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/login/forgot_password.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/login/forgot_password.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/login/login_option_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/login/login_option_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/main/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/main/main_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/map/map_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/map/map_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/message/message_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/message/message_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/message/messages_list_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/message/messages_list_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/nearbysalon/near_by_salon_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/nearbysalon/near_by_salon_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/notification/notification_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/notification/notification_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payment/booked_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payment/booked_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payment/coupon_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payment/coupon_bottom_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payment/make_payment_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payment/make_payment_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payment/recharge_wallet_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payment/recharge_wallet_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payment/transaction_complete_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payment/transaction_complete_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/payoutHistory/payout_history_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/payoutHistory/payout_history_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/preview/image_preview_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/preview/image_preview_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/preview/video_preview_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/preview/video_preview_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/profile/chnage_password_bottom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/profile/chnage_password_bottom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/profile/delete_account_bottom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/profile/delete_account_bottom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/profile/profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/profile/profile_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/profile/profile_top_bar_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/profile/profile_top_bar_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_awards_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_awards_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_details_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_details_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_gallery_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_gallery_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_reviews_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_reviews_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_services_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salon/salon_services_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/salononmap/explore_salon_on_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/salononmap/explore_salon_on_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/search/filter_bottom_sheet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/search/filter_bottom_sheet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/search/search_salon_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/search/search_salon_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/search/search_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/search/search_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/search/search_service_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/search/search_service_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/service/service_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/service/service_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/toprated/top_rated_salon_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/toprated/top_rated_salon_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/wallet/wallet_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/wallet/wallet_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/wallet/withdraw_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/wallet/withdraw_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/screens/web/web_view_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/screens/web/web_view_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutfx/lib/utils/custom/custom_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/cutfx/lib/utils/custom/custom_dialog.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2pU2DYHhfE0M2bupaKGMvpmeBLw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Downloads/sokraProject/cutfx/cutfx_salon_app",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b01ffec5-dbd9-4416-8fa6-f84c8e215d86" name="Changes" comment="" />
+      <created>1732806214856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732806214856</updated>
+    </task>
+    <servers />
+  </component>
+</project>
